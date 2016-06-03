@@ -12,14 +12,9 @@
     "request": "^2.72.0"
   },
   "devDependencies": {
-    "team-guidelines": "github:treehouseaustin/team-guidelines"
+    "@treehouse/guidelines": "^1.0.0"
   },
   "engines": {
     "node": ">= 6"
-  },
-  "eslintConfig": {
-    "extends": [
-      "./node_modules/team-guidelines/.eslintrc.js"
-    ]
   }
 }

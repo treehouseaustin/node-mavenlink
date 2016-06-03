@@ -1,0 +1,6 @@
+{
+ "extends": "./node_modules/@treehouse/guidelines/.eslintrc.js",
+  rules: {
+    "camelcase": 0
+  }
+}
